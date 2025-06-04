@@ -1,0 +1,23 @@
+body {
+  background-color: lightcyan !important;
+}
+
+.home{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0, 0.8),rgba(0,0,0, 0.2)),
+    url("../imgs/background.jpeg");
+    background-size: cover;
+}
+.intro{
+    color: lavender;
+    padding: 10% 20%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 200;
+
+}
+
+.name{
+    font-size: 50px;
+    
+}
